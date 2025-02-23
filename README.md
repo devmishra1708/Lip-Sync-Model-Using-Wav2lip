@@ -14,6 +14,13 @@ This project utilizes the **Wav2Lip** model to generate lip-synced videos by syn
 ## Output 
    https://github.com/user-attachments/assets/734bc5f4-53e8-44cb-889e-9757955b6dbc
 
+## 📌 How It Works
+
+1. **Face Detection**: Extracts the region of interest (ROI) from the video.
+2. **Audio Feature Extraction**: Converts the input speech into features.
+3. **Lip-Sync Model**: Uses deep learning to sync lip movements with speech.
+4. **Video Reconstruction**: Generates a final, high-quality output.
+
 
 ## 🛠 Installation
 To set up the project, follow these steps:
