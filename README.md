@@ -131,3 +131,5 @@ Parts of the code structure are inspired by this [TTS repository](https://github
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+#   L i p - S y n c - M o d e l - U s i n g - W a v 2 l i p  
+ 
